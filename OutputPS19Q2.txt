@@ -1,0 +1,3 @@
+Product Sequence: Bluestone,ACT,Nike,Lakme,Lux,Sony 
+Total time to complete photoshoot: 265 minutes 
+Idle time for Xavier: 20 minutes

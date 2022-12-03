@@ -1,0 +1,3 @@
+Products:ACT/Lakme/Lux/Sony/Nike/Bluestone
+Staging:30/40/55/60/30/20
+Photo:40/40/25/30/50/60
