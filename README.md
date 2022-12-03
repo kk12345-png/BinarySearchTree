@@ -1,2 +1,2 @@
-# BinarySearchTree
-Python implementation of a scenario where binary search tree is used
+# SelectionSort
+Python implementation of a scenario where Selection Sort is used
